@@ -1,0 +1,5 @@
+Game Notes
+- redo ikbd stuff
+- comments
+- document
+- clean up code if time is premitting
